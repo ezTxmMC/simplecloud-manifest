@@ -7,7 +7,7 @@
     "downloadLinks": [
       {
         "version": "3.3.0-SNAPSHOT",
-        "link": "https://api.papermc.io/v2/projects/velocity/versions/3.3.0-SNAPSHOT/builds/399/downloads/velocity-3.3.0-SNAPSHOT-399.jar"
+        "link": "https://api.papermc.io/v2/projects/velocity/versions/3.3.0-SNAPSHOT/builds/400/downloads/velocity-3.3.0-SNAPSHOT-400.jar"
       },
       {
         "version": "3.2.0-SNAPSHOT",
@@ -139,7 +139,7 @@
     "downloadLinks": [
       {
         "version": "1.21",
-        "link": "https://api.papermc.io/v2/projects/paper/versions/1.21/builds/1/downloads/paper-1.21-1.jar"
+        "link": "https://api.papermc.io/v2/projects/paper/versions/1.21/builds/36/downloads/paper-1.21-36.jar"
       },
       {
         "version": "1.20.6",
@@ -307,8 +307,12 @@
     "name": "Purpur",
     "type": "SERVER",
     "isPaperclip": true,
-    "latestVersion": "1.20.6",
+    "latestVersion": "1.21",
     "downloadLinks": [
+      {
+        "version": "1.21",
+        "link": "https://api.purpurmc.org/v2/purpur/1.21/latest/download"
+      },
       {
         "version": "1.20.6",
         "link": "https://api.purpurmc.org/v2/purpur/1.20.6/latest/download"
@@ -427,7 +431,7 @@
     "downloadLinks": [
       {
         "version": "1.20.6",
-        "link": "https://api.papermc.io/v2/projects/folia/versions/1.20.6/builds/4/downloads/folia-1.20.6-4.jar"
+        "link": "https://api.papermc.io/v2/projects/folia/versions/1.20.6/builds/5/downloads/folia-1.20.6-5.jar"
       },
       {
         "version": "1.20.4",
@@ -494,16 +498,6 @@
       {
         "version": "1.21-pre1",
         "link": "https://piston-data.mojang.com/v1/objects/57e59ee5d8bc6ce664a7d76de45f8df9c110381f/server.jar",
-        "isSnapshot": true
-      },
-      {
-        "version": "24w21b",
-        "link": "https://piston-data.mojang.com/v1/objects/743d74805b64f83052fe449993f42182f76b129e/server.jar",
-        "isSnapshot": true
-      },
-      {
-        "version": "24w21a",
-        "link": "https://piston-data.mojang.com/v1/objects/6ba7192e60bedb3ff02db3c57b75f7ea56c63242/server.jar",
         "isSnapshot": true
       },
       {
